@@ -1,0 +1,2 @@
+# HT24LC08_RAM
+RAM-style wrapper for HT24LC08 I2C EEPROM
