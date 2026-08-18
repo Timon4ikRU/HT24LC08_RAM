@@ -1,0 +1,21 @@
+# Syntax highlighting for HT24LC08_RAM library
+
+HT24LC08_RAM	KEYWORD1
+HT24LC08	KEYWORD1
+
+# Methods (KEYWORD2)
+write	KEYWORD2
+read	KEYWORD2
+readInt	KEYWORD2
+clear	KEYWORD2
+length	KEYWORD2
+mode	KEYWORD2
+begin	KEYWORD2
+setBlock	KEYWORD2
+setAddressPins	KEYWORD2
+setWriteProtect	KEYWORD2
+isWriteProtected	KEYWORD2
+
+# Constants / Enums (LITERAL1)
+LSB_FIRST	LITERAL1
+MSB_FIRST	LITERAL1
